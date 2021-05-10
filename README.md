@@ -50,8 +50,7 @@ pensando em apoiar o controle e a negociação das compras, essa planilha tem co
 
 <br />
 
-- se voce tem alguma sugestão ou alteração, por favor informe para que possamos implementar. E assim ter uma ferramenta ainda melhor.
-- essa planilha pode ser alterada para melhor atender as necessidade de sua empresa. Lembrando que não há bloqueio nas fórmulas e macros.
-
+- se voce tem alguma sugestão ou alteração, por favor informe para que possamos implementar. E ter uma ferramenta ainda melhor.
+- essa planilha pode ser alterada para melhor atender as suas necessidades.
 
 
