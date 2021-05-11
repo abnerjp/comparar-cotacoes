@@ -51,6 +51,8 @@ pensando em apoiar o controle e a negociação das compras, essa planilha tem co
 <br />
 
 - se voce tem alguma sugestão ou alteração, por favor informe para que possamos implementar e tornar essa ferramenta ainda melhor.
+- a planilha está bloqueada, porém não foi utilizado senha no bloqueio.
 - essa planilha pode ser adaptada para melhor atender as suas necessidades.
+- 
 
 
