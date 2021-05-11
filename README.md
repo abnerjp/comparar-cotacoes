@@ -2,13 +2,13 @@
 
 planilha para auxiliar na realização de compras com várias cotações
 
-## 🏭 Em sua empresa, você precisa realizar várias cotações para cada compra?
+## 🏭 Se você precisa realizar várias cotações para realizar uma compra, essa planilha pode ser sua melhor aliada!!
 
 pensando em apoiar o controle e a negociação das compras, essa planilha tem como objetivo apontar informações relevantes sobre os valores praticados pelos fornecedores, servindo de suporte para que o comprador negocie e finalize a compra com melhor eficiência financeira.
 
 <br />
 
-### Veja abaixo como utilizar esta planilha.
+### Veja abaixo as sessões da planilha:
 
 #### Informações gerais
 > ![image](https://user-images.githubusercontent.com/45899438/117590471-f1865e80-b105-11eb-958a-3ecef5296a8b.png)
