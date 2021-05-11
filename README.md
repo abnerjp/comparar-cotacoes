@@ -50,7 +50,7 @@ pensando em apoiar o controle e a negociação das compras, essa planilha tem co
 
 <br />
 
-- se voce tem alguma sugestão ou alteração, por favor informe para que possamos implementar. E ter uma ferramenta ainda melhor.
-- essa planilha pode ser alterada para melhor atender as suas necessidades.
+- se voce tem alguma sugestão ou alteração, por favor informe para que possamos implementar e tornar essa ferramenta ainda melhor.
+- essa planilha pode ser adaptada para melhor atender as suas necessidades.
 
 
