@@ -32,7 +32,7 @@ pensando em apoiar o controle e a negociação das compras, essa planilha tem co
 > - a função dos botões:
 >   - [ Linha +/- ]  exibe todas as linhas de itens / oculta todas as linhas sem itens
 >   - [ Fornecedores +/- ]   exibe todos os campos de fornecedores / oculta campos de fornecedores sem cotação
->     - os 5 primeiros campos de fornecedores sempre serão (mesmo se não houver cotação)
+>     - os 5 primeiros campos de fornecedores sempre serão exibidos(mesmo se não houver cotação)
 
 <br />
 
